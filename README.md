@@ -6,8 +6,10 @@ Math Crunchers is a math game that covers addition, subtraction, multiplication 
 Version 0.1 is runnable
 
 From the command line:
-javac MathCrunchers
-java MathCrunchers.java
+
+javac MathCrunchers       //compiles
+
+java MathCrunchers.java   //runs
 
 You can choose how many levels, and how many problems per level you want. Simply change these 2 parameters in the Main method
 MathCrunchers game1 = new MathCrunchers(3, 10);
